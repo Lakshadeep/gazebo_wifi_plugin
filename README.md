@@ -1,0 +1,10 @@
+##Reference links
+- http://gazebosim.org/tutorials?tut=contact_sensor
+- https://osrf-distributions.s3.amazonaws.com/gazebo/api/dev/group__gazebo__sensors.html
+- https://osrf-distributions.s3.amazonaws.com/gazebo/api/dev/classgazebo_1_1sensors_1_1WirelessTransceiver.html
+- https://osrf-distributions.s3.amazonaws.com/gazebo/api/dev/classgazebo_1_1sensors_1_1WirelessReceiver.html#ae2c6fd57bfe81802af49c5c470a8aa2f
+- https://osrf-distributions.s3.amazonaws.com/gazebo/api/dev/classgazebo_1_1sensors_1_1Sensor.html#a8c2db08c71f7336337638d692016a7c3
+- https://osrf-distributions.s3.amazonaws.com/gazebo/api/dev/classgazebo_1_1sensors_1_1WirelessTransceiver.html#a0fa0526f60dd0d221e37f32ccc43ff3a
+- http://answers.gazebosim.org/question/13021/plugin-for-wirelesstransmitter-and-wirelessreciever-sensors/
+- https://github.com/arpg/Gazebo/blob/master/gazebo/sensors/WirelessReceiver.cc
+- http://gazebosim.org/tutorials?tut=ros_gzplugins
